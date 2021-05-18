@@ -24,6 +24,6 @@ const isPalindrome = (x) => {
     }
 }
 
- isPalindrome()
+ isPalindrome(12321)
 
 
